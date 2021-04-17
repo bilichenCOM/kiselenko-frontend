@@ -1,0 +1,16 @@
+body {
+	background-color: #FBFAF5;
+}
+
+.site-title {
+	letter-spacing: 2px;
+	font-size: 20px;
+	font-weight: 600;
+	color: grey;
+	font-style: italic;
+}
+
+.card {
+	background-color: rgba(255, 255, 255, .4);
+	color: grey;
+}
